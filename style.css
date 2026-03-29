@@ -54,8 +54,8 @@ nav a:hover {
 
 .header-tools {
   position: absolute;
-  bottom: 250px;   /* stick to bottom of header */
-  left: 300px;     /* far left corner */
+  bottom: 150px;   /* stick to bottom of header */
+  left: 500px;     /* far left corner */
   display: flex;
   flex-direction: wrap;
   gap: 4px;
